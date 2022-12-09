@@ -1,6 +1,7 @@
 var myFullName;
+console.log(myFullName);
 myFullName="Poonam Devale ";
-console.log(myFullName); 
+console.log(myFullName);
 var myFullName="Poonam Madhuker Devale";
 console.log(myFullName);
 var myLove= "I Love only JS";
